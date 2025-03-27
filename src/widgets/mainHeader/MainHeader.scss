@@ -1,0 +1,18 @@
+.mainHeader{
+    display: flex;
+    flex-direction: row;
+
+    gap: 20px;
+}
+
+.link__laderboard, .link__main{
+    color: #e0e1dd;
+    background-color: #415a77;
+    padding: 20px;
+    border-radius: 0px 0px 10px 10px;
+    text-decoration: none;
+
+    &:hover{
+        opacity: 0.8;
+    }
+}
