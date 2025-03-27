@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iq-dev/static/css/main.cd1f3a85.css",
-    "main.js": "/iq-dev/static/js/main.a51623cc.js",
+    "main.js": "/iq-dev/static/js/main.374a28c9.js",
     "static/media/bomb.svg": "/iq-dev/static/media/bomb.b9cabe13934f79635e4f45868fbbcd6c.svg",
     "static/media/flag.svg": "/iq-dev/static/media/flag.f5800ea2e66ed3452fc4f05cd73d70d1.svg",
     "index.html": "/iq-dev/index.html",
     "main.cd1f3a85.css.map": "/iq-dev/static/css/main.cd1f3a85.css.map",
-    "main.a51623cc.js.map": "/iq-dev/static/js/main.a51623cc.js.map"
+    "main.374a28c9.js.map": "/iq-dev/static/js/main.374a28c9.js.map"
   },
   "entrypoints": [
     "static/css/main.cd1f3a85.css",
-    "static/js/main.a51623cc.js"
+    "static/js/main.374a28c9.js"
   ]
 }
