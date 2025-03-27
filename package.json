@@ -2,7 +2,7 @@
   "name": "iq-dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ImpulsVL/iq-dev",
+  "homepage": "https://impulsvl.github.io/iq-dev",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/dom": "^10.4.0",
