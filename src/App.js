@@ -10,7 +10,7 @@ import Leaderboard from './features/LaderBoard/LaderBoard';
 function App() {
   return (
     <Provider store={store}>
-      <Router >
+      <Router basename={process.env.PUBLIC_URL}>
         <div className="App">
           <Routes>
 
@@ -18,6 +18,7 @@ function App() {
             <Route path="/game" element={<Game />} />
             <Route path="/leaderboard" element={<Leaderboard />} />
 
+            <Route path="*" element={<MainGame />} />
           </Routes>
         </div>
       </Router>
